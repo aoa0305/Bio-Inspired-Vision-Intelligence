@@ -1,7 +1,7 @@
 # Bio-Inspired-Vision-Intelligence
 GROUP MEMBERS: Al Ameen Akindele, David Combs, Harsh Patel, Gabrielle Gil
 
-#Description 
+# Description 
 The VR implementation was made to give a close imitation of what the perspective animals would see with the resources we had.
 
 
