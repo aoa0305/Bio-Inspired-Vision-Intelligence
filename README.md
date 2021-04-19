@@ -22,7 +22,7 @@ Capstone\CapstoneVisionVR\Builds
 
 
 
-#Usage
+# Usage
 To install the .apk file on the Oculus Quest:
 Step 1: Enable Developer Mode for Oculus Quest
 Open the Oculus Mobile app on your Phone
