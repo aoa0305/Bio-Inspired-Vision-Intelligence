@@ -6,7 +6,7 @@ The VR implementation was made to give a close imitation of what the perspective
 
 
 
-#Prerequisites
+# Prerequisites
 To install .apk files to the Oculus Quest:
 Facebook account
 Oculus Mobile App
